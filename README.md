@@ -1,5 +1,8 @@
 # Kafka Docker Compose and Test with Express.js Application
 
+# What is Kafka?
+[![what is kafka](https://static-00.iconduck.com/assets.00/kafka-icon-2048x935-cvu4503l.png)](https://www.youtube.com/shorts/Bc6oyURRIxQ?feature=share)
+
 This project sets up a Kafka environment using Docker and Docker Compose, along with a Node.js Express application (`kafka-express-app`) to test Kafka by producing and consuming messages.
 
 ---
